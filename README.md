@@ -1,4 +1,4 @@
-# Research Report
+# Research Report for Openseo
 
 ## Executive Summary
 

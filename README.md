@@ -1,4 +1,4 @@
-# Clinsight SEO Integration Research
+# Research Report
 
 ## Executive Summary
 
